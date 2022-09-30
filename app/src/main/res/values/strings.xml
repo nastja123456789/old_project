@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PartyApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyCpr3ZboplY52C5-Nwjfsff-H7gBwmr62M</string>
+</resources>

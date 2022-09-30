@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_fragmnet" type="id">1</item>
+    <item name="recyclerViewFinishWork" type="id">1</item>
+    <item name="email" type="id">1</item>
+    <item name="password" type="id">2</item>
+    <item name="button2" type="id">3</item>
+    <item name="login_content_2" type="id">4</item>
+    <item name="but" type="id">1</item>
+    <item name="textView" type="id">2</item>
+    <item name="bottom_navigation" type="id">3</item>
+    <item name="main_fragmnett" type="id">4</item>
+    <item name="main_fragment" type="id">1</item>
+    <item name="registrationButtonFrag1" type="id">2</item>
+</resources>
